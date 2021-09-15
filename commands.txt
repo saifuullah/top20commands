@@ -1,3 +1,0 @@
-Git commands
-
-1- Git Diff
